@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1140px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu a {
+  color: orange;
+  font-weight: 500;
+  font-size: 15px;
+  text-decoration: none;
+  padding: 18px;
+}
+
+.btn1 {
+  border: 3px solid orange;
+  border-radius: 6px;
+  height: 47px;
+  width: 86px;
+  color: orange;
+  background-color: white;
+  border-radius: 6px;
+}
+
+.btn2 {
+  background: orange;
+  height: 45px;
+  width: 120px;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22px;
+  color: white;
+  border: 0;
+}
+
+.own_box {
+  padding-left: 900px;
+  padding-top: 100px;
+}
+
+.button_OWN {
+  border: 3px solid orange;
+  border-radius: 6px;
+  height: 47px;
+  width: 86px;
+  color: orange;
+  background-color: white;
+  border-radius: 6px;
+}
